@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/DYasmanovych/swaggersploit/main/scripty.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/DYasmanovych/swaggersploit/main/scripty.yaml",
+            "name": "Foo"
+        }
+    ]
+}
